@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="app_description">Tareas Pendientes</string>
+    <string name="app_categories">Categorias</string>
+    <string name="app_tasks">Tareas</string>
+    <string name="app_add_task">Agregar Tarea</string>
+    <string name="personal">Personal</string>
+    <string name="work">Trabajo</string>
+    <string name="other">Otros</string>
+    <string name="add_task">Añadir Tarea</string>
+</resources>
